@@ -16,3 +16,7 @@ LeetCode Solutions: A simple collection of my LeetCode problem solutions, organi
 1. [Two Sum](https://leetcode.com/problems/two-sum/) - [Code](./Two%20Sum.py)
 1. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Code](./Remove%20Duplicates%20from%20Sorted%20Array.py)
 1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Code](./Merge%20Two%20Sorted%20Lists.py)
+1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Code](./Valid%20Parentheses.py)
+1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) - [Code](./Longest%20Common%20Prefix.py)
+1. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - [Code](./Roman%20to%20Integer.py)
+1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Code](./Palindrome%20Number.py)
