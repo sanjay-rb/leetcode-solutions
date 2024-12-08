@@ -21,3 +21,4 @@ LeetCode Solutions: A simple collection of my LeetCode problem solutions, organi
 1. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - [Code](./Roman%20to%20Integer.py)
 1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Code](./Palindrome%20Number.py)
 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [Code](./Valid%20Palindrome.py), [Solution](https://leetcode.com/problems/valid-palindrome/solutions/6123496/check-if-a-string-is-a-palindrome-ignoring-non-alphanumeric-characters)
+1. [Add Digits](https://leetcode.com/problems/add-digits/) - [Code](./Add%20Digits.py), [Solution](https://leetcode.com/problems/add-digits/solutions/6125706/efficiently-reducing-numbers-to-a-single-digit-solution-and-analysis)
